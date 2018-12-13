@@ -1,0 +1,1 @@
+sometext = "All text in this file!"
