@@ -16,8 +16,8 @@ puts formatter % {first: formatter, second: formatter, third: formatter, fourth:
 #This will fill in all of the varibles in the print function with the string values
 puts formatter % {
 	first: "I had this thing.", 
-	second: "That you could type right up"
-	third: "But it didn't sing."
+	second: "That you could type right up",
+	third: "But it didn't sing.",
 	fourth: "So I said good night."
 }
 
