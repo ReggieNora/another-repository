@@ -1,4 +1,4 @@
-puts "I will now count my chickens:"
+puts "I will now count my dogs:"
 puts "Hens #{25 + 30 / 7}"
 puts "Roosters #{100 - 25 * 3 % 4}"
 
